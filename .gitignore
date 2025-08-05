@@ -1,0 +1,9 @@
+# Local .terraform directories
+**/.terraform/*
+
+# .tfstate ignore
+*.tfstate
+*.tfstate.*
+
+
+.DS_Store
